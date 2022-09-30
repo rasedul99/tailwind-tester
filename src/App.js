@@ -14,7 +14,7 @@ function App() {
             </p>
             <p className="text-gray-500">Youtube Channel</p>
           </div>
-          <button className="px-3 py-1 border  border-purple-200 rounded-full text-purple-600 text-sm font-semibold">
+          <button className="px-3 py-1 border  border-purple-200 rounded-full text-purple-600 text-sm font-semibold hover:bg-purple-600 hover:text-white hover:border-transparent focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2">
             Visit Now
           </button>
         </div>
